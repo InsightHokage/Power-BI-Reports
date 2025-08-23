@@ -14,6 +14,7 @@ The goal of this project was to:
 4. Provide actionable insights for budget optimization and audience targeting
 
 🗂 Report Structure
+
 1️⃣ Summary View:
 
 Top 10 campaigns by Impressions
@@ -50,10 +51,13 @@ Cost Optimization: Some campaigns achieved high impressions but weak ROI → sig
 
 
 🚀 Business Value
+
 This dashboard helped the startup to:
+
 ✅ Compare campaign performance across channels & regions
 ✅ Identify cost-effective channels for future campaigns
 ✅ Track long-term trends in ROI, engagement & conversions
 ✅ Optimize marketing spend towards high impact campaigns
+
 
 ✨ Tools Used: Excel (Data Source), Power BI (Visualization, DAX, Power Query)
