@@ -2,9 +2,11 @@
 Visualizing campaign effectiveness to optimize spend & maximize impact.
 
 📊 Digital Campaign Effectiveness Dashboard
+
 A Power BI dashboard built using social media campaign performance data from a startup. The dashboard provides a 360° view of marketing performance across campaigns, channels & geographies - helping track ROI, optimize spend & improve decision making.
 
 🎯 Aim of the Report
+
 The goal of this project was to:
 1. Measure campaign effectiveness across multiple digital channels
 2. Track key performance indicators (KPIs) such as Impressions, Clicks, CTR, ROI & CPC
