@@ -12,17 +12,20 @@ The goal of this project was to:
 4. Provide actionable insights for budget optimization and audience targeting
 
 🗂 Report Structure
-1️⃣ Summary View
+1️⃣ Summary View:
+
 Top 10 campaigns by Impressions
 Cost per Impression (CPI) & Cost per Click (CPC) by channel
 Clicks distribution by state & campaign
 
-2️⃣ KPI Trends View
+2️⃣ KPI Trends View:
+
 CTR & Conversion Rate trends over time
 ROI fluctuations (peaks at +572%)
 Engagement rates by channel
 
-3️⃣ Detailed Summary View
+3️⃣ Detailed Summary View:
+
 Total campaigns executed
 Average CPC & CPI
 Bounce rate by campaign
