@@ -55,9 +55,17 @@ Cost Optimization: Some campaigns achieved high impressions but weak ROI → sig
 This dashboard helped the startup to:
 
 ✅ Compare campaign performance across channels & regions
+
 ✅ Identify cost-effective channels for future campaigns
+
 ✅ Track long-term trends in ROI, engagement & conversions
+
 ✅ Optimize marketing spend towards high impact campaigns
 
 
+
 ✨ Tools Used: Excel (Data Source), Power BI (Visualization, DAX, Power Query)
+
+
+Snapshot of the dashboard:
+https://github.com/InsightHokage/Power-BI-Reports/blob/main/Snapshot%20.png
